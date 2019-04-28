@@ -20,13 +20,20 @@ To execute this project, you need to follow some requeriments, basically the ins
  
 	 ### Installation Guide 
 	 First, access your project path:
+	 
 	``cd /your/project/path
 	``
+	
 	And install Cypress throught npm package:
+	
 	``npm install cypress --save-dev
 	``
+	
 	And so, execute Cypress using npx:
-	``npx cypress open``
+	
+	``
+	npx cypress open
+	``
 
 ## Considerations
 One of the itens from the Technical Assessment is the maintainability of the test code. What I would to is add an 'data-testid' atributes to select the itens of the website and if the selectors change, the test will stay intact.
