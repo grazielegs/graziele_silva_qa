@@ -3,7 +3,7 @@
 Hi **Ormuco Team**, I am **Graziele** and nice to meet you!
 
 ## Where the test is located
-The test could be found on 
+The test could be found in:
 
 ``
 graziele_silva_qa/cypress/integration/e2e/ormuco-test.js
