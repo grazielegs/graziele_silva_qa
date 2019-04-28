@@ -45,7 +45,7 @@ To execute this project, you need to follow some requeriments, basically the ins
 ## Considerations
 One of the itens from the Technical Assessment is the maintainability of the test code. What I would to is add an 'data-testid' atributes to select the itens of the website and if the selectors change, the test will stay intact.
 
-# Thanks and my best regards!
+# Thank you very much and my best regards!
 
 
 
