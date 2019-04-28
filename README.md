@@ -2,6 +2,13 @@
 
 Hi **Ormuco Team**, I am **Graziele** and nice to meet you!
 
+## Where the test is located
+The test could be found on 
+
+``
+graziele_silva_qa/cypress/integration/e2e/ormuco-test.js
+``
+
 ## Criteria of Choice - Cypress.io
 
 Cypress is a relatively new framework and solves some of the problems older solutions faced in the area of test automation.
